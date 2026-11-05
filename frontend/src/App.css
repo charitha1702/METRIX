@@ -1,0 +1,33 @@
+
+#root {
+  min-height: 100vh;
+  width: 100%;
+}
+
+.serif-heading {
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+.soft-card {
+  background: #ffffff;
+  border: 1px solid #eae9e3;
+  border-radius: 18px;
+  box-shadow: 0 4px 18px rgba(36, 59, 83, 0.035);
+  transition: box-shadow 180ms ease, transform 180ms ease;
+}
+
+.soft-card:hover {
+  box-shadow: 0 9px 26px rgba(36, 59, 83, 0.07);
+}
+
+.soft-button {
+  background: #243b53;
+  color: #ffffff;
+  border-radius: 12px;
+  transition: background 180ms ease, transform 180ms ease;
+}
+
+.soft-button:hover {
+  background: #344e68;
+  transform: translateY(-1px);
+}
