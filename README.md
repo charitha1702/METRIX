@@ -1,6 +1,4 @@
 # METRIX
-### Intelligent, Data-Driven City Planning
-
 **Plan Ahead. Build Smarter. Grow Better.**
 
 An AI-assisted urban and regional planning platform that connects geospatial data, population and infrastructure analysis, and interactive scenario planning to support informed development decisions.
